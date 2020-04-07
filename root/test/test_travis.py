@@ -18,4 +18,4 @@ class TestApp (unittest.TestCase):
 
     # test 2
     def test_two(self):
-        self.assertGreater(3,2)
+        self.assertGreater(2,3)
